@@ -1,0 +1,9 @@
+[project]
+name = "lm-studio"
+version = "1.0.0-foundations"
+description = "LM Studio - pedagogical publishing system"
+requires-python = ">=3.11"
+
+[tool.lm]
+project = "LM Studio"
+stage = "foundations"
